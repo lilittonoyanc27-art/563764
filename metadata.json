@@ -1,0 +1,7 @@
+{
+  "name": "Ո՞վ է ուզում դառնալ միլիոնատեր — Իսպաներեն և Հայերեն",
+  "description": "Ինտերակտիվ միլիոնատեր խաղ իսպաներենի անցյալ և ապառնի ժամանակների 50 իրավիճակներով, հայերեն թարգմանությամբ և հուշումներով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
